@@ -2,7 +2,6 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'pika80'
-discord 'https://discord.gg/WjgdPxhfKj'
 description 'Sistema de Garagens Trabalhos'
 version '1.0.0'
 
@@ -21,3 +20,4 @@ client_scripts {
 }
 
 shared_script 'config.lua'
+
